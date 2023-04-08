@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../testsim"
+		},
+		{
+			"name": "simcom",
+			"path": "../../simcom"
+		},
+		{
+			"name": "out_source_3_4",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"softwareserial.h": "c"
+		}
+	}
+}
